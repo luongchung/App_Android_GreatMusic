@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <string name="app_name">Lương Chung</string>
+    <string name="action_settings">Cài đặt</string>
+
+    <string name="accessibility_play">Chạy</string>
+    <string name="accessibility_pause">Tạm dừng</string>
+    <string name="accessibility_next">Tiếp</string>
+    <string name="accessibility_prev">trở về</string>
+    <string name="accessibility_shuffle">Trộn</string>
+    <string name="accessibility_shuffle_all">Chạy tất cả</string>
+    <string name="accessibility_repeat">Chạy lại</string>
+    <string name="accessibility_repeat_all">Chạy lại tất cả</string>
+    <string name="accessibility_repeat_one">Chạy một bài</string>
+    <string name="accessibility_queue">Mở hàng đợi</string>
+    <string name="accessibility_browse">Duyệt bài hát</string>
+
+    <string name="menu_sort_by">Lọc theo</string>
+    <string name="sort_order_entry_az">A-Z</string>
+    <string name="sort_order_entry_za">Z-A</string>
+    <string name="sort_order_entry_artist">Tác giả</string>
+    <string name="sort_order_entry_album">Album</string>
+    <string name="sort_order_entry_year">Năm</string>
+    <string name="sort_order_entry_track_number">"Số Track "</string>
+    <string name="sort_order_entry_duration">Duration</string>
+    <string name="sort_order_entry_date_added">Date added</string>
+    <string name="sort_order_entry_track_list">Danh sách Track</string>
+    <string name="sort_order_entry_number_of_songs">Số bài hát</string>
+    <string name="sort_order_entry_number_of_albums">Số Album</string>
+    <string name="sort_order_entry_filename">Tên tệp</string>
+
+    <string name="error_playing_track">Lỗi Phát bài hát</string>
+
+    <string name="playlist_last_added">Last Added</string>
+    <string name="playlist_recently_played">Recently Played</string>
+    <string name="playlist_top_tracks">Bài hát hàng đầu của tôi</string>
+
+    <string name="timber_source">Báo cáo bất kỳ lỗi nào <u> Tại đây </u> </string>
+    <string name="timber_feature_request">Specify any feature request in the Google+ community <u> here </u></string>
+
+    <string name="menu_show_as">Kiểu quan sát</string>
+    <string name="menu_show_as_entry_list">Danh sách</string>
+    <string name="menu_show_as_entry_grid">Lưới</string>
+    <string name="menu_show_as_entry_default">Mặc định</string>
+
+    <string name="light">Sáng</string>
+    <string name="dark">Tối</string>
+    <string name="black">Đen</string>
+
+    <string name="last_opened">Mở sau</string>
+
+    <string name="songs">Bài hát</string>
+    <string name="albums">Albums</string>
+    <string name="artists">Tác giả</string>
+    <string name="library">Thư viện</string>
+    <string name="playlists">Danh sách phát</string>
+    <string name="playing_queue">Chạy hàng đợi</string>
+    <string name="now_playing">Đang chạy</string>
+    <string name="settings">Cài đặt</string>
+    <string name="about">Thông tin</string>
+    <string name="help_and_feedback">Trợ giúp và Phản hồi</string>
+    <string name="search">Tìm kiếm</string>
+    <string name="action_shuffle_all">Trộn tất cả</string>
+    <string name="action_equalizer">Tùy chỉnh âm thanh</string>
+    <string name="search_library">Nhập từ khóa tìm kiếm</string>
+
+    <string name="select_theme">Chọn chủ đề</string>
+    <string name="choose_theme_throughout">Chọn một chủ đề sẽ được sử dụng trong toàn ứng dụng.</string>
+    <string name="choose_start_page">Chọn trang bắt đầu được hiển thị khi khởi chạy.</string>
+    <string name="start_page">Trang bắt đầu</string>
+    <string name="artist_in_grid">Tác giả theo lưới</string>
+    <string name="toggle_artists_grid">Chuyển đổi để hiển thị tác giả trong lưới 2x2.</string>
+    <string name="toggle_system_animations">Bật / tắt cho hoạt ảnh hệ thống trong toàn ứng dụng.</string>
+    <string name="system_animations">Hệ thống hoạt cảnh</string>
+    <string name="toggle_animations">Chuyển đổi hoạt ảnh chuyển tiếp toàn ứng đụng.</string>
+    <string name="animations">Hoạt cảnh</string>
+    <string name="now_playing_selector">Chọn màn hình đang chơi từ 4 kiểu khác nhau.</string>
+    <string name="personalisation">Cá nhân hóa</string>
+    <string name="other">Khác</string>
+    <string name="advanced">Nâng cao</string>
+    <string name="timber_about_opensource">Ứng đụng này dựa trên mã nguồn mở Naman Dwivedi.</string>
+    <string name="summary_pause_detach">Tắt nhạc khi rút tai nghe</string>
+    <string name="pause_detach">Tạm dừng khi tách ra</string>
+    <string name="summary_xposed_trackselector"></string>
+    <string name="xposed_trackselector">Chạy hàng đợi thông báo</string>
+    <string name="currently_selected">Hiện đã chọn</string>
+
+    <string name="dark_theme">Chủ đề tối</string>
+    <string name="dark_theme_summary">Áp đụng them tối cho toàn ứng đụng</string>
+
+    <string name="primary_color">Màu chính</string>
+    <string name="primary_color_summary">Thay đổi màu chủ đề chính</string>
+
+    <string name="accent_color">Accent Color</string>
+    <string name="accent_color_summary">Thay đổi màu của chủ đề</string>
+
+    <string name="colored_status_bar">Màu sắc thanh trạng tháu</string>
+    <string name="colored_status_bar_summary">Chuyển đổi màu thanh trạng thái</string>
+
+    <string name="colored_nav_bar">Màu sắc thanh điều hướng</string>
+    <string name="colored_nav_bar_summary">Chuyển đổi màu thanh điều hướng</string>
+
+    <string name="albumart_lockscreen">Khóa màn hình</string>
+    <string name="albumart_lockscreen_summary">Hiển thị album trên màn hình khóa</string>
+
+    <string name="load_artist_image">Tải ảnh tác giả</string>
+    <string name="load_artist_image_summary">Tải ảnh tác giả từ lastfm</string>
+
+    <string name="load_artist_image_mobile">Tải ảnh tác giả bằng mạng di động</string>
+    <string name="load_artist_image_mobile_summary">Tải ảnh tác giả ngay cả khi không có wifi</string>
+
+    <string name="gestures">Cử chi</string>
+    <string name="switching_tracks_by_gestures">Chuyển bài hát bằng cử chỉ</string>
+    <string name="widget_standard">widget</string>
+    <string name="widget_small">small widget</string>
+    <string name="tap_to_start">Chạm để bắt đầu Timber</string>
+    <string name="widget_white">light widget</string>
+
+    <string name="count_song"><xliff:g id="count">%d</xliff:g> Bài hát</string>
+    <string name="count_songs"><xliff:g id="count">%d</xliff:g> Bài hát</string>
+    <string name="count_album"><xliff:g id="count">%d</xliff:g> album</string>
+    <string name="count_albums"><xliff:g id="count">%d</xliff:g> albums</string>
+    <string name="count_artist"><xliff:g id="count">%d</xliff:g> Tác giả</string>
+    <string name="count_artists"><xliff:g id="count">%d</xliff:g> Tác giả</string>
+
+    <string name="number_song_add_queue"><xliff:g example="1" id="number">%d</xliff:g> Thêm bài vào hàng đợi.</string>
+    <string name="number_songs_add_queue"><xliff:g example="1" id="number">%d</xliff:g> Thêm bài vào hàng đợi.</string>
+    <string name="number_song_add_playlist"><xliff:g example="1" id="number">%d</xliff:g> Thêm bài vào danh sách phát.</string>
+    <string name="number_songs_add_playlist"><xliff:g example="1" id="number">%d</xliff:g> Thêm bài vào danh sách phát.</string>
+
+
+    <!--do not translate these strings-->
+    <string name="combine_two_strings" translatable="false">%1$s | %2$s</string>
+    <string name="duration_format" translatable="false"><xliff:g id="hours">%1$s</xliff:g> <xliff:g id="minutes">%2$s</xliff:g></string>
+    <string name="durationformatshort" translatable="false"><xliff:g id="format">%2$d:%3$02d</xliff:g></string>
+    <string name="durationformatlong" translatable="false"><xliff:g id="format">%1$d:%2$02d:%3$02d</xliff:g></string>
+
+    <string name="play">Chạy</string>
+    <string name="add_to_playlist">Thêm vào danh sách phát</string>
+    <string name="go_to_album">Đi đến album</string>
+    <string name="go_to_artist">Đi đến tác giả</string>
+    <string name="add_to_queue">Thêm vào hàng đợi</string>
+    <string name="play_next">Chạy tiếp</string>
+    <string name="new_playlist">Danh sách mới</string>
+
+
+    <string name="nothing_found">Không có kết quả</string>
+    <string name="folders">Thư mục</string>
+    <string name="select_storage">Chọn lưu trữ</string>
+
+    <string name="lastfm_pref">Đăng nhập vào LastFM để bật lại</string>
+    <string name="lastfm_login_failture">Đăng nhập không thành công</string>
+    <string name="lastfm_login">Đăng nhập vào LastFM</string>
+    <string name="lastfm_loged_in">Đăng nhập bằng %s</string>
+
+    <string name="cancel">Trở về</string>
+
+</resources>
